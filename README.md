@@ -193,19 +193,3 @@ Experimental projects exploring systems, software and security.
 [![GitHub](https://img.shields.io/badge/GitHub-ZexloN-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ZexloN)
 
 </div>
-
----
-
-<div align="center">
-
-```text
-────────────────────────────────────────────────────
-
-       SECURITY  •  RESEARCH  •  ENGINEERING
-
-                    ZexloN
-
-────────────────────────────────────────────────────
-```
-
-</div>
